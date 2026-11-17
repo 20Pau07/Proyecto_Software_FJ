@@ -1,0 +1,23 @@
+16/11/2026 09:52:34 | INFO | Inicio de prueba del módulo de logs.
+16/11/2026 09:52:34 | WARNING | Advertencia de prueba.
+16/11/2026 09:52:34 | ERROR | Error de prueba.
+16/11/2026 10:20:17 | INFO | Inicio de prueba del módulo de logs.
+16/11/2026 10:20:17 | WARNING | Advertencia de prueba.
+16/11/2026 10:20:17 | ERROR | Error de prueba.
+16/11/2026 15:08:31 | INFO | === INICIO DE SIMULACIÓN DE 10 OPERACIONES ===
+16/11/2026 15:08:31 | INFO | Cliente registrado: C001
+16/11/2026 15:18:33 | INFO | === INICIO DE SIMULACIÓN DE 10 OPERACIONES ===
+16/11/2026 15:18:33 | INFO | Cliente registrado: C001
+16/11/2026 15:18:33 | ERROR | Op 2 fallida: El correo electronico no es valido.
+16/11/2026 15:18:33 | ERROR | Op 5 fallida: El precio del servicio debe ser mayor a cero.
+16/11/2026 15:18:33 | INFO | Se creó una nueva reserva.
+16/11/2026 15:18:33 | INFO | Reserva confirmada correctamente.
+16/11/2026 15:18:33 | INFO | Se calculó el costo final: 214200.0
+16/11/2026 15:18:33 | INFO | Reserva procesada. Costo: 200000
+16/11/2026 15:18:33 | INFO | Finalizó verificación de Operación 7.
+16/11/2026 15:18:33 | ERROR | Op 8 fallida: La duración debe ser mayor a cero.
+16/11/2026 15:18:33 | INFO | Se creó una nueva reserva.
+16/11/2026 15:18:33 | ERROR | Op 9 fallida: La reserva debe estar confirmada para procesarse.
+16/11/2026 15:18:33 | INFO | Reserva confirmada correctamente.
+16/11/2026 15:18:33 | INFO | Reserva cancelada correctamente.
+16/11/2026 15:18:33 | INFO | === FIN DE SIMULACIÓN ===
